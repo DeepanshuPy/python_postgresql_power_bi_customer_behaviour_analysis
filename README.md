@@ -3,6 +3,13 @@
 ## Project Overview
 This end-to-end data analytics project analyzes customer shopping behavior using transactional data from 3,900 purchases across various product categories. The primary goal is to uncover insights into spending patterns, customer segments, product preferences, and subscription behavior to guide strategic business decisions.
 
+<img width="887" height="497" alt="Dashboard Screen Shot" src="https://github.com/user-attachments/assets/3f3d679c-fe73-42c3-8aeb-1bdcf4602227" />
+
+<img width="1112" height="467" alt="Python Code" src="https://github.com/user-attachments/assets/6d60ba2e-2d8b-4dc4-8796-a6f2c09511d3" />
+
+<img width="1307" height="642" alt="SQL Queries" src="https://github.com/user-attachments/assets/84fe451f-30a7-4689-8abb-fde6a3936b0a" />
+
+
 ## Tech Stack
 * **Language:** Python (Pandas for EDA and Data Cleaning)
 * **Database:** PostgreSQL (Structured Data Analysis)
